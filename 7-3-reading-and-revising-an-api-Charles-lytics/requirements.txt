@@ -1,0 +1,4 @@
+flask
+requests
+pytest
+git+https://github.com/Ensign-College/autograding_python_setup.git
